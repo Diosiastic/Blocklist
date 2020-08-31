@@ -1,5 +1,10 @@
 ### Ads ###
-
+snapads.com
+*.snapads.com
+*.*.snapads.com
+ad.technoratimedia.com
+ads.technoratimedia.com
+adcode.technoratimedia.com
 
 ### Analytics ###
 
@@ -11,7 +16,7 @@
 
 
 ### CDN ###
-
+ad-cdn.technoratimedia.com
 
 
 
@@ -70,3 +75,32 @@ etloadnet.tumblr.com
 eu-entertainment.tumblr.com
 is-members.tumblr.com
 stateagencybe.tumblr.com
+
+tmx.technoratimedia.com
+dms.technoratimedia.com
+uat-secure.technoratimedia.com
+prebid.technoratimedia.com
+www.technoratimedia.com
+technoratimedia.com
+adtag.technoratimedia.com
+cdn.technoratimedia.com
+cmadsapi.technoratimedia.com
+cmadsdev.technoratimedia.com
+cmadslive.technoratimedia.com
+convoad.technoratimedia.com
+fuat-net.technoratimedia.com
+uat01.mtv.technoratimedia.com
+uat02.mtv.technoratimedia.com
+uat06.mtv.technoratimedia.com
+my.technoratimedia.com
+ox-i.technoratimedia.com
+portal.technoratimedia.com
+qa-portal.technoratimedia.com
+smartwrapper.technoratimedia.com
+sync.technoratimedia.com
+tmx.technoratimedia.com
+uat.technoratimedia.com
+uat-net.technoratimedia.com
+uat-secure.technoratimedia.com
+uat-ssl.technoratimedia.com
+zedo.technoratimedia.com
