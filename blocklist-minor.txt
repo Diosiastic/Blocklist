@@ -1,3 +1,20 @@
+acceptable.a-ads.com
+^ad.*\.a-ads.com
+^app.*\.a-ads.com
+chef.a-ads.com
+click.a-ads.com
+da.a-ads.com
+files.a-ads.com
+int.a-ads.com
+^lb.*\.a-ads.com
+mm.a-ads.com
+^ns\d?.a-ads.com
+s.a-ads.com
+static.a-ads.com
+sta-ads.com
+www.a-ads.com
+wwww.a-ads.com
+
 adalyser.com
 aus-mec-tracking.adalyser.com
 aus-smv-tracking.adalyser.com
@@ -559,6 +576,28 @@ ted.dailymail.co.uk.edgekey.net
 evolveplatform.net
 dashboard.evolveplatform.net
 
+ezoic.net
+angelfire-com.ezoic.net
+\d*\.ezoic\.net
+distance.ezoic.net
+e.ezoic.net
+eg.ezoic.net
+g.ezoic.net
+go.ezoic.net
+gi.ezoic.net
+cdn.ezoic.net
+com.cdn.ezoic.net
+.*?\.com\.cdn\.ezoic\.net
+mobi.com.ezoic.net
+.*?\.mobi\.cdn\.ezoic\.net
+net.cdn.ezoic.net
+.*?\.net\.cdn\.ezoic\.net
+.*?\.pl\.cdn\.ezoic\.net
+outbrain.ezoic.net
+pxys.ezoic.net
+tripod-com.ezoic.net
+www.*\.ezoic\.net
+
 fyber.com
 *.fyber.com
 *.*.fyber.com
@@ -947,5 +986,4 @@ is-members.tumblr.com
 stateagencybe.tumblr.com
 
 content.synapsys.us
-
 
